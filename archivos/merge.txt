@@ -1,2 +1,3 @@
 Si pudo hacerse un commit porque la carpeta no esta vacia
 En este caso si pudo hacerse un commit porque la carpeta ya no esta vacia
+Hay que tener cuidado porque git no sabe determinar automaticamente que cambio es correcto o con cual quedarse y por lo mismo es que se tiene que hacer una mezcla manual y ver con cual cambio quedarse
