@@ -1,1 +1,1 @@
-Ahra si pudo hacerse un commit porque la carpeta no esta vacia
+Ahora si pudo hacerse un commit porque la carpeta no esta vacia
