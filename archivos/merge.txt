@@ -1,1 +1,1 @@
-Ahora si pudo hacerse un commit porque la carpeta no esta vacia
+En este caso si pudo hacerse un commit porque la carpeta ya no esta vacia
